@@ -18,7 +18,14 @@
 /public/storage
 /storage/*.key
 /storage/pail
+/storage/app/public
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
 /vendor
+Laravel_V1_Worskspace-deploy.zip
 Homestead.json
 Homestead.yaml
 Thumbs.db
